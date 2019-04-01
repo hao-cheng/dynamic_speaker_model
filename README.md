@@ -1,4 +1,4 @@
-Bi-directional Attention with Agreement for Dependency Parsing
+A Dynamic Speaker Model for Conversational Interactions
 =================
 
 ## Coming soon.
